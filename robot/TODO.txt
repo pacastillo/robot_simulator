@@ -1,0 +1,23 @@
+
+que reciba un nombre de fichero (opcional) de texto en el que van
+simplemente filas en las que se dan coordenadas de cuadros que se van a
+rellenar:
+
+----------------------------------
+|1 1   poner de azul el cuadro 1,1
+|2 1
+|0 2   poner de azul el cuadro 0,2 (a la izq,dos cuadros abajo)
+|4 3
+|
+|
+
+simplemente tenemos en cuenta que la ventana se divide en 8 partes en
+horizontal y vertical, y vamos desde el 0 hasta el 7.
+
+es simple para leerlo, en el main se lee el fich, se mete en un vector
+(var.global) y en la funcion de pintar se utiliza para pintar los
+obstaculos.
+
+el primer cuadrito podria ser el objetivo, y asi sabemos que debe ir en
+verde.
+
