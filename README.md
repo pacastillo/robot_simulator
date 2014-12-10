@@ -32,4 +32,3 @@ Teaching assembly language using a robot simulator as part of a course on comput
 III International Conference on multimedia and ICT's in Education (mICTE2005)
 III International Conference on multimedia and ICT's in Education (mICTE2005), Recent Research Developments in Learning Technologies (2005) .  Mendez-Vilas et al. Editors, Vol. 2, pp.577-580,  ISBN:609-5996-1
 Cáceres, 2005
-
